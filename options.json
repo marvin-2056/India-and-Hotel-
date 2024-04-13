@@ -1,0 +1,22 @@
+
+{
+    "burgers": [
+      {"value": "classic", "label": "Classic Burger"},
+      {"value": "cheese", "label": "Cheeseburger"},
+      {"value": "veggie", "label": "Veggie Burger"}
+    ],
+    "fries": [
+      {"value": "regular", "label": "Regular Fries"},
+      {"value": "curly", "label": "Curly Fries"},
+      {"value": "sweet", "label": "Sweet Potato Fries"},
+      {"value": "Kale", "label": "Kale Chips"},
+      {"value": "veggie", "label": "Veggie Fries"},
+      {"value": "cheese", "label": "Cheese Fries"}
+    ],
+    "drinks": [
+      {"value": "coke", "label": "Coke"},
+      {"value": "pepsi", "label": "Pepsi"},
+      {"value": "sprite", "label": "Sprite"}
+    ]
+  }
+  
